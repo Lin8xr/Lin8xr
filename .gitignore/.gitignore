@@ -1,0 +1,5 @@
+git remote افزودن منبع https://github.com/Lin8xr/Lin8xr.git
+
+ شعبه git -M main 
+
+git push -u منبع اصلی
